@@ -360,6 +360,8 @@ Then, some very specific technologies were mentioned quite a few times too, incl
 #### React and related technologies
 @raimohanska I suggest you understand the basics of web technology, including Javascript and the DOM before reaching for tools like React. Yet, learning React makes sense and is worth investing your time into!
 
+To be really effective with React, it makes sense to dig into its internals and understand how it works under the hood. One good way to get there is to [Build your own React](https://pomb.us/build-your-own-react/).
+
 #### Relatedly, Redux and other state management solutions for React
 @raimohanska I suggest you learn your React first before applying external state management tools. You should, once again, understand the problem first before jumping for solutions.
 
